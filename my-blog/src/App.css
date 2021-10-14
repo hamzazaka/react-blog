@@ -1,5 +1,5 @@
 
-.grocery-app h1{
+.grocery-li h1{
   text-align: center;
   margin-top: 40px;
   margin-bottom: 40px;
@@ -16,5 +16,9 @@
 .grocery-list h4{
   padding-right: 40px;
   /* text-align: center; */
+}
+
+.grocery-li h2{
+  text-align: center;
 }
 
