@@ -1,0 +1,22 @@
+{
+    "blogs":[
+    {
+        "title":"my new website",
+        "body":"hello thi is my new boog",
+        "author":"hamza",
+        "id":1
+    },
+     {
+        "title":"BIRTHDAY WEBSITE",
+        "body":"my birthday is coming and ia m going to be ready for it",
+        "author":"aaron",
+        "id":2
+    },
+     {
+        "title":"hello world",
+        "body":"this is the hello world",
+        "author":"hamza",
+        "id":3
+    }
+    ]
+}
